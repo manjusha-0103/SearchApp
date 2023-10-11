@@ -1,0 +1,27 @@
+.suggest{
+    margin-top: 2%;
+    background-color: white;
+    padding: 29px;
+    width: 80%;
+    height: 73vh;
+    margin-left: -9%;
+    box-shadow: '0px 4px 40px rgba(0, 0, 0, 0.25)';
+    border-radius: 4px;
+    overflow: hidden;
+}
+.trendimg{
+    display: flex;
+    padding: 5px;
+    gap: 2%;
+    width:100%;
+    margin-top: 3%;
+
+}
+.card{
+    width: 100%;
+
+}
+.trendimg img{
+    width: 100%;
+    height : 25vh;
+}

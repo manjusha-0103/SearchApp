@@ -1,0 +1,106 @@
+.sm-r{
+    margin-top: 2%;
+    margin-left: -35%;
+    background-color: white;
+    width: 132%;
+    height: 82vh;
+    padding: 20px;
+}
+.s-r{
+    width: 100%;
+    height: 80%;
+    display: flex;
+}
+.sidebar{
+    width: 20%;
+    padding : 5px;
+}
+.dropdown-btn{
+    display:flex;
+    padding-top: 20px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    border-bottom: solid#bebaba;
+}
+.brand-box{
+    width : 90%;
+    height: 33.33%;
+}
+
+.brand-box h3{
+    width: 90%;
+    background-color: transparent;
+    border-color: transparent;
+}
+.price-box{
+    width : 90%;
+    height: 33.33%; 
+}
+.price-box h3{
+    width: 90%;
+    background-color: transparent;
+    border-color: transparent;
+}
+.ratings-box{
+    width : 90%;
+    height: 33.33%;
+    
+}
+.ratings-box h3{
+    width: 90%;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.result{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 80%;
+    padding: 10px;
+    row-gap: 1%;
+    column-gap: 1%
+}
+.r-card{
+    width: 25%;
+    padding:10px;
+}
+.r-card:hover{
+    cursor: pointer;
+}
+
+.r-img{
+    width:100%;
+    height : 70%;
+    object-fit: cover;
+}
+.r-img img{
+    width: 100%;
+    height : 100%;
+    object-fit: cover;
+}
+.pro-details{
+
+    height: 30%;
+    margin-top: 16%;
+}
+
+.filter-box{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar-label-container span{
+    margin-left: 7%;
+}
+.sidebar-label-container label:hover{
+    cursor: pointer;
+}
+
+.sidebar-label-container input:hover{
+    cursor: pointer;
+}
+
+
+
